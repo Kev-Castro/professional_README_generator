@@ -18,31 +18,31 @@ function promptUser() {
         },
         {
             name: 'description',
-            message: 'Please provide your project Description'
+            message: 'Please provide your project Description.'
         },
         {
             name: 'installation',
-            message: 'Please provide any info on the Installation'
+            message: 'Please provide any info on the Installation.'
         },
         {
             name: 'usage',
-            message: 'Please provide any info on the Usage '
+            message: 'Please provide any info on the Usage.'
         },
         {
             name: 'contributing',
-            message: 'Please '
+            message: 'Please provide any info on the Contributing done on the project.'
         },
         {
             name: 'tests',
-            message: 'Please '
+            message: 'Please provide any info on the Tests done.'
         },
         {
             name: 'github',
-            message: 'Please '
+            message: 'Please provide your Github Username'
         },
         {
             name: 'email',
-            message: 'Please '
+            message: 'Please provide your primary email address'
         },
         {
             name: 'license',
