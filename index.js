@@ -29,7 +29,19 @@ function promptUser() {
             message: 'Please '
         },
         {
+            name: 'contributing',
+            message: 'Please '
+        },
+        {
+            name: 'tests',
+            message: 'Please '
+        },
+        {
             name: 'github',
+            message: 'Please '
+        },
+        {
+            name: 'email',
             message: 'Please '
         },
         {
