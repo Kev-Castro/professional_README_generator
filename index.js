@@ -21,6 +21,18 @@ function promptUser() {
             message: 'Please provide your project description'
         },
         {
+            name: 'installation',
+            message: 'Please '
+        },
+        {
+            name: 'usage',
+            message: 'Please '
+        },
+        {
+            name: 'github',
+            message: 'Please '
+        },
+        {
             name: 'license',
             message: 'Please choose the license you would like',
             type: 'list',
