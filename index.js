@@ -21,10 +21,6 @@ function promptUser() {
             message: 'Please provide your project description'
         },
         {
-            name: 'image',
-            message: 'Please provide image url'
-        },
-        {
             name: 'license',
             message: 'Please choose the license you would like',
             type: 'list',
