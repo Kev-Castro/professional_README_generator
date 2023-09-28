@@ -46,7 +46,7 @@ function promptUser() {
         },
         {
             name: 'license',
-            message: 'Please choose the license you would like',
+            message: 'Please choose the license you have used from the list.',
             type: 'list',
             choices: ['MIT', 'ISC', 'GNU']
         }
