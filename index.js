@@ -38,11 +38,11 @@ function promptUser() {
         },
         {
             name: 'github',
-            message: 'Please provide your Github Username'
+            message: 'Please provide your Github Username.'
         },
         {
             name: 'email',
-            message: 'Please provide your primary email address'
+            message: 'Please provide your Primary Email Address'
         },
         {
             name: 'license',
