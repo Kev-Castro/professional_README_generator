@@ -14,19 +14,19 @@ function promptUser() {
     inquirer.prompt([
         {
             name: 'title',
-            message: 'Please provide your project title.'
+            message: 'Please provide your project Title.'
         },
         {
             name: 'description',
-            message: 'Please provide your project description'
+            message: 'Please provide your project Description'
         },
         {
             name: 'installation',
-            message: 'Please '
+            message: 'Please provide any info on the Installation'
         },
         {
             name: 'usage',
-            message: 'Please '
+            message: 'Please provide any info on the Usage '
         },
         {
             name: 'contributing',
