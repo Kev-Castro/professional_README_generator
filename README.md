@@ -29,7 +29,7 @@
 
 - ***Below is an image of the finished site.***
 
-![Alt text](./images/Screenshot%202023-09-28%20163428.png)
+![Alt text](.//images/Screenshot%202023-09-28%20170258.png)
 
 ## License
 
